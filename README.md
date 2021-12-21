@@ -1,6 +1,6 @@
 # Virtusa Project
 
-## Team Mates:
+# Team Mates:
 <ul>
 <li>Jaya Sri S</li>
 <li>Naveen SK</li>
